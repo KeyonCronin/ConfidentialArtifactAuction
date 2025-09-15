@@ -92,7 +92,7 @@ Traditional blockchain auctions suffer from a critical flaw: **all bids are publ
 
 Watch our platform demonstration showcasing the complete auction workflow:
 
-[![Demo Video](/Demo Video.mp4)
+[![Demo Video](/ConfidentialArtifactAuction.mp4)
 
 **Video Highlights:**
 - Wallet connection and setup
